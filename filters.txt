@@ -7576,3 +7576,10 @@
 ||zhcn.admob.com^
 ||zlink.app.spotify.com^
 ||z.moatads.com^
+
+||pubads.g.doubleclick.net^
+||securepubads.g.doubleclick.net^
+||www.googletagservices.com^
+||gads.pubmatic.com^
+||ads.pubmatic.com^
+||spclient.wg.spotify.com^
