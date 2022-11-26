@@ -1,4 +1,4 @@
-||crashdump.spotify.com^
+||audio2.spotify.com^
 ||adeventtracker.spotify.com^
 ||log.spotify.com^
 ||analytics.spotify.com^
