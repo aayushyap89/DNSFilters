@@ -7582,3 +7582,10 @@
 ||www.googletagservices.com^
 ||gads.pubmatic.com^
 ||ads.pubmatic.com^
+||analyticsengline.s3.amazonaws.com^
+||advice-ads.s3.amazonaws.com^
+||affiliationjs.s3.amazonaws.com^
+||advertising-api-eu.amazon.com^
+||amazonaax.com^
+||advertising.twitter.com^
+||widgets.pinterest.com^
